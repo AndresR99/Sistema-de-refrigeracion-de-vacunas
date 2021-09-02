@@ -1,5 +1,5 @@
 # Sistema-de-refrigeracion-de-vacunas
-Proyecto de laboratorio de Sistemas Embebidos P#107
+# Proyecto de laboratorio de Sistemas Embebidos P#107
 Nombre de la empresa: Refrigeritos S.A.
 Nombre de los integrantes: Javier Martin Oyola Pindo - Andrés Wladimir Romero Chiriboga
 Breve descripción del proyecto: Control de un cuarto frío con un sistema de seguridad con alertas personales.
